@@ -11,7 +11,7 @@ def main():
         lib = Manager(libraryName)
         
         #This appears when the user exits the library menu
-        print '\nThis program brought to you by Ashley. Thanks! :)'
+        print '\nThis program brought to you by Ashley and Casey. Thanks! :)'
     except Exception:
         print 'There was a problem somewhere!'
         
