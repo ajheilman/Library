@@ -1,4 +1,8 @@
 from book import *
+from library import *
+from patron import *
+from book import *
+
 
 class Manager ( object ):
     def __init__ ( self, libraryName ):
